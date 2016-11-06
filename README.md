@@ -8,7 +8,7 @@ Totally controlled popover component based on [React Overlays](https://github.co
 
 ## Usage
 ```js
-import 'Popover' from 'react-simple-popover';
+import Popover from 'react-simple-popover';
 import React, { Component } from 'react';
 
 class PopoverDemo extends Component {
